@@ -1,3 +1,4 @@
+# Record of homework 0
 
 [2023/7/16] init repo hw0 <br>
 [2023/7/18] finish q1-q3 <br>
